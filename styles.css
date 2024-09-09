@@ -87,7 +87,7 @@ img {
     width: 40vh;
 }
 
-@media (max-width: 1000px) { 
+@media (max-width: 600px) { 
     .container {
         grid-template-areas:
         "titulo titulo"
